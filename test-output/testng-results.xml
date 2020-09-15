@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="914" started-at="2020-08-31T08:08:49Z" finished-at="2020-08-31T08:08:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="914" started-at="2020-08-31T08:08:49Z" finished-at="2020-08-31T08:08:50Z">
+      <class name="TestCases.PostpaidDropdown">
+        <test-method status="PASS" signature="openingBrower()[pri:0, instance:TestCases.PostpaidDropdown@3bbc39f8]" name="openingBrower" is-config="true" duration-ms="20333" started-at="2020-08-31T13:38:29Z" finished-at="2020-08-31T13:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrower -->
+        <test-method status="PASS" signature="verifyPostpaidDropdownListTest()[pri:0, instance:TestCases.PostpaidDropdown@3bbc39f8]" name="verifyPostpaidDropdownListTest" duration-ms="780" started-at="2020-08-31T13:38:49Z" finished-at="2020-08-31T13:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostpaidDropdownListTest -->
+      </class> <!-- TestCases.PostpaidDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
