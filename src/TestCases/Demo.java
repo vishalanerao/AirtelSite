@@ -27,6 +27,8 @@ public class Demo {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.get("https://www.airtel.in/");
+		System.out.println("Airtel Site Open Before Test");
+		System.out.println("Start");
 
 	}
 
